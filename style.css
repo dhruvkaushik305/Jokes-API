@@ -1,0 +1,32 @@
+body{
+    padding-top: 175px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #222831;
+}
+h1{
+    font-size: xxx-large;
+    font-weight: 700;
+    font-family: borel, cursive;
+}
+#text{
+    /*line-height: 0.5;*/
+    font-size: x-large;
+    font-family: caveat, cursive;
+    color: #EEEEEE;
+}
+#textarea{
+    border-radius: 5px;
+    font-family: Montserrat,sans-serif;
+    border-color: #FFD36999;
+    border-width: 3px;
+    background-color: #393E46;
+    color: #EEEEEE;
+}
+#button{
+    background-color: #FFD369;
+    border-radius: 5px;
+}
